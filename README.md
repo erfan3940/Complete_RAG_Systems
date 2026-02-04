@@ -137,9 +137,9 @@ Core technologies used:
 
 ---
 
-## 🛠 LangGraph systems images
+## 🛠 LangGraph system images
 
-example of LangGraph systems that has been created:
+some examples of LangGraph systems that has been created:
 
 ![image1](https://github.com/erfan3940/Complete_RAG_Systems/blob/main/output_AdaptiveRAG.png)
 ![image2](https://github.com/erfan3940/Complete_RAG_Systems/blob/main/output_CorrectiveRAG.png)
@@ -152,5 +152,6 @@ example of LangGraph systems that has been created:
 ```bash
 git clone https://github.com/erfan3940/Complete_RAG_Systems.git
 cd Complete_RAG_Systems
+
 
 
