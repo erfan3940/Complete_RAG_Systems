@@ -93,6 +93,8 @@ Advanced RAG pipelines powered by LangGraph:
 
 ### 📊 Evaluation & Monitoring
 
+![Eval_image](https://github.com/erfan3940/Complete_RAG_Systems/blob/main/LangSmith_Eval.png)
+
 Evaluation tools integrated:
 
 - LangSmith evaluation
@@ -152,6 +154,7 @@ some examples of LangGraph systems that has been created:
 ```bash
 git clone https://github.com/erfan3940/Complete_RAG_Systems.git
 cd Complete_RAG_Systems
+
 
 
 
